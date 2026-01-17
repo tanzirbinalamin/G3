@@ -7,7 +7,7 @@
 
 .header{
 
-    background-color: #ffdbb1;
+    background-color: #fff2e3;
 }
 
 nav{
@@ -45,6 +45,82 @@ font-weight: 600;
 font-size: 18px;
 
 }
+
+.content1{
+    text-align: center;
+    margin: 50px auto 25px auto;
+
+}
+
+.content1 h1{
+    font-weight: 800;
+    font-size: 64px;
+    line-height: 75px;
+    padding-bottom: 20px;
+
+}
+
+.content1 p{
+    color: gray;
+    padding-bottom: 20px;
+}
+
+.content1 .primary-btn{
+    background-color: #FF900E;
+    color: white;
+    padding: 20px 30px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    border: none;
+}
+
+.header img{
+    margin: 0px 240px 45px 240px;
+}
+
+.section2{
+    display: flex;
+    align-items: center;
+    margin: 100px 300px 100px 300px;
+    gap: 100px;
+}
+
+.section2 .images{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 24px;
+    }
+
+.section2 .content2 h2{
+    font-size: 45px;
+    font-weight: 700;
+    padding-bottom: 10px;
+
+}
+
+.section2 .content2 h2 .q{
+    color: gray;
+}
+
+.section2 .content2 h2 .f{
+    color:#FF900E
+}
+
+.section2 .content2 p{
+    color: gray;
+     padding-bottom: 10px;
+     line-height: 22px;
+}
+
+.section2 .content2 .aprimary-btn{
+    background-color: #FF900E;
+color: white;
+padding: 20px 30px;
+border-radius: 8px;
+margin-bottom: 20px;
+border: none;
+}
+
 
 
 
