@@ -121,6 +121,83 @@ margin-bottom: 20px;
 border: none;
 }
 
+.third-section{
+    display: flex;
+    gap: 200px;
+    margin: 40px 200px;
+
+}
+
+.card-container .content3 h1{
+    font-size: 54px;
+    font-weight: bold;
+    border-left: 10px solid #FF900E;
+    padding-left: 20px;
+    padding-bottom: 10px;
+
+}
+.card-container .content3 p{
+    margin-top: 20px;
+    color: gray;
+    line-height: 20px;
+    margin-bottom: 20px;
+
+}
+
+.card-container .content3 .card{
+    height: 140px;
+    width: 580px;
+    border-radius: 6px;
+    box-shadow: 4px 4px 4px rgb(207, 207, 207);
+    margin-bottom: 15px;
+    padding: 30px 10px 5px 35px;
+
+    
+}
+
+.card-container .content3 .card h4{
+    font-size: 20px;
+}
+
+.Architects button{
+    padding: 45px 42px;
+    background-color: #FF900E;
+    color: white;
+    border-radius: 6px;
+    border: none;
+    margin-top: -110px;
+    margin-left: -90px;
+
+}
+
+.Architects button h1{
+    font-size: 65px;
+}
+
+.Architects button h4{
+    font-size: 25px;
+}
+
+.fourth .fact{
+    margin-left: 150px;
+}
+
+
+
+
+.fourth .fact h3{
+
+    font-size: 45px;
+    font-weight: bold;
+
+}
+
+.fourth .fact p{
+    color: gray;
+    line-height: 25px;
+
+}
+
 
 
 
